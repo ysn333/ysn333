@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yassine Moundelssi</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-<img align="right" alt="center" width="400" scr="https://www.shutterstock.com/image-vector/cartoon-style-character-glasses-web-260nw-558863032.jpg">
+<h3 align="center">A Passionate Frontend Developer From Morocco</h3>
+<img align="right" alt="center" width="400" src="https://github.com/ysn333/YsSN-Moundelssi/blob/main/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysn333&label=Profile%20views&color=0e75b6&style=flat" alt="ysn333" /> </p>
 
 - 🔭 I’m currently working on [Application_de_recettes_de_cuisine_en_utilisant_une_API](https://github.com/ysn333/Application_de_recettes_de_cuisine_en_utilisant_une_API.git)
