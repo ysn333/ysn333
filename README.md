@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yassine-moundelssi-319712237](https://www.linkedin.com/in/yassine-moundelssi-319712237)
+- 👨‍💻 All of my projects are available at [[https://www.linkedin.com/in/yassine-moundelssi-319712237](https://www.linkedin.com/in/yassine-moundelssi-319712237)](https://www.linkedin.com/in/moundelssi-yassine-a820a8262/)
 
 - 💬 Ask me about **javascript , php**
 
